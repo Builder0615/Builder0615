@@ -79,7 +79,7 @@ rule      ship small · stay local
 </table>
 
 **二次开发与工具链**  
-[OmniGet](https://github.com/Builder0615/omniget) · [MoreTalk](https://github.com/Builder0615/moretalk) · [Toaster](https://github.com/Builder0615/Toaster) · [DecoTV](https://github.com/Builder0615/DecoTV)
+[Cat Download](https://github.com/Builder0615/cat-download) · [MoreTalk](https://github.com/Builder0615/moretalk) · [Toaster](https://github.com/Builder0615/Toaster) · [DecoTV](https://github.com/Builder0615/DecoTV)
 
 <sub>部分项目源自上游开源仓库的二次开发或维护分支；另外还有一些 Android、Flutter 与 Agent 工作流实验在私有仓库里持续迭代。</sub>
 
