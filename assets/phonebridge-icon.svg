@@ -1,0 +1,22 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="PhoneBridge icon">
+  <defs>
+    <linearGradient id="bg" x1="18" y1="12" x2="142" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A3A6A"/>
+      <stop offset="1" stop-color="#06101D"/>
+    </linearGradient>
+    <linearGradient id="line" x1="38" y1="42" x2="123" y2="122" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6FE8FF"/>
+      <stop offset="1" stop-color="#3478FF"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="144" height="144" rx="34" fill="url(#bg)"/>
+  <rect x="8" y="8" width="144" height="144" rx="34" stroke="#55DDFF" stroke-opacity="0.32"/>
+  <rect x="59" y="36" width="66" height="45" rx="5" stroke="url(#line)" stroke-width="3"/>
+  <path d="M81 82H103M91 81V92M80 98H103" stroke="#6FE8FF" stroke-width="3" stroke-linecap="round"/>
+  <rect x="39" y="80" width="27" height="47" rx="5" stroke="#6FE8FF" stroke-width="3"/>
+  <path d="M49 117H56" stroke="#6FE8FF" stroke-width="3" stroke-linecap="round"/>
+  <path d="M102 76C112 76 118 82 118 91C118 100 112 106 102 106" stroke="#FFC857" stroke-width="3" stroke-linecap="round"/>
+  <path d="M98 87C103 87 106 88 106 91C106 94 103 95 98 95" stroke="#FFC857" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="44" cy="42" r="2.5" fill="#FF5C62"/>
+  <path d="M30 30H54M30 30V54M130 30H106M130 30V54" stroke="#55DDFF" stroke-opacity="0.5"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Agent source notes icon">
+  <defs>
+    <linearGradient id="bg" x1="18" y1="12" x2="142" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0C3155"/>
+      <stop offset="1" stop-color="#07101D"/>
+    </linearGradient>
+    <linearGradient id="line" x1="48" y1="47" x2="124" y2="119" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#62E5FF"/>
+      <stop offset="1" stop-color="#2B72FF"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+  </defs>
+  <rect x="8" y="8" width="144" height="144" rx="34" fill="url(#bg)"/>
+  <rect x="8" y="8" width="144" height="144" rx="34" stroke="#55DDFF" stroke-opacity="0.32"/>
+  <path d="M44 46H96L116 66V114H44V46Z" stroke="url(#line)" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M96 46V66H116" stroke="#62E5FF" stroke-width="3"/>
+  <path d="M59 76H99M59 88H91M59 100H82" stroke="#8FEFFF" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="107" cy="100" r="3.5" fill="#FFC857" filter="url(#glow)"/>
+  <circle cx="107" cy="100" r="2.3" fill="#FFE6A3"/>
+  <path d="M30 30H54M30 30V54M130 30H106M130 30V54" stroke="#55DDFF" stroke-opacity="0.5"/>
+</svg>
