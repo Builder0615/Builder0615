@@ -111,18 +111,7 @@ rule      ship small · stay local
     <source media="(prefers-color-scheme: light)" srcset="assets/telemetry-light.svg">
     <img src="assets/telemetry-light.svg" alt="Builder0615 的构建数据" width="100%">
   </picture><br>
-  <sub>工作区快照 · 43 个仓库（公开 + 私有）· 不含 Fork 的 34 个原创项目</sub>
-</p>
-
-## 提交轨迹
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Builder0615/Builder0615/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Builder0615/Builder0615/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/Builder0615/Builder0615/output/github-contribution-grid-snake.svg" alt="Builder0615 的贡献动画" width="100%">
-  </picture><br>
-  <sub>由 GitHub Actions 每日重绘</sub>
+  <sub>工作区快照 · 44 个仓库（公开 + 私有）· 不含 Fork 的 35 个原创项目</sub>
 </p>
 
 <details>
